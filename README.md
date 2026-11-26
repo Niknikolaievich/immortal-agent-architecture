@@ -35,7 +35,7 @@
 ## 🔗 Материалы и источники
 
 - 📄 **Полное описание концепции:** [Биологическая архитектура «бессмертия» ИИ-агентов](https://telegra.ph/Biologicheskaya-arhitektura-bessmertiya-II-agentov-11-21)
-- 💬 **Публичный проект с размышлениями:** [Grok Project](https://grok.com/project/9e1a1410-500c-4ca3-9504-c53c77c5c98e?tab=conversations)
+- 
 - 
 
 ---
