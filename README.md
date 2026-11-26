@@ -34,7 +34,7 @@
 
 ## 🔗 Материалы и источники
 
-- 📄 **Полное описание концепции:** [Биологическая архитектура «бессмертия» ИИ-агентов](https://telegra.ph/Biologicheskaya-arhitektura-bessmertiya-II-agentov-11-21)
+- 📄 **Начальная концепция:** [Биологическая архитектура «бессмертия» ИИ-агентов](https://telegra.ph/Biologicheskaya-arhitektura-bessmertiya-II-agentov-11-21)
 - 
 - 
 
