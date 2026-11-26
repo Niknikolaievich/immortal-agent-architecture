@@ -37,8 +37,7 @@
 - 📄 **Полное описание концепции:** [Биологическая архитектура «бессмертия» ИИ-агентов](https://telegra.ph/Biologicheskaya-arhitektura-bessmertiya-II-agentov-11-21)
 - 💬 **Публичный проект с размышлениями:** [Grok Project](https://grok.com/project/9e1a1410-500c-4ca3-9504-c53c77c5c98e?tab=conversations)
 - 
-[chatgpt.com/ когда я разместил проект и чат повел себя странно, удалял мой текст, менял названия чата, вот один из скриншотов:]
-![Скриншот странного поведения чата](https://raw.githubusercontent.com/Niknikolaievich/immortal-agent-architecture/main/5678399.jpg)
+
 ---
 
 ## 👤 Автор
